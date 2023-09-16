@@ -1,4 +1,4 @@
-# Food Delivery Website - First Year College Mini Project
+# Food Delivery Website - First College Mini Project
 
 Welcome to the repository for our first-year college group mini project - a Food Delivery Website! 🍔🍕🚚
 
@@ -23,7 +23,7 @@ During our first year in college, we embarked on a journey to create a simple fo
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: PHP
+- **Backend**: JavaScript
 - **Database**: MySQL
-- **Version Control**: GitHub (though, not properly used at the time)
+- **Version Control**: GitHub (though, didn't used that time so using it now)
 
