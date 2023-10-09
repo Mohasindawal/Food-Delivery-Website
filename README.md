@@ -16,9 +16,7 @@ During our first year in college, we embarked on a journey to create a simple fo
 
 - **Add to Cart**: Users can add food items to their shopping cart.
 
-- **Place Orders**: Users can place orders and specify delivery details.
-
-- **Admin Panel**: An admin panel is available for restaurant owners to manage their menu and orders.
+- **Place Orders**: Users can place orders and specify delivery details.  
 
 ## Technologies Used
 
