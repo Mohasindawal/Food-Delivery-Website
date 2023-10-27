@@ -10,8 +10,6 @@ During our first year in college, we embarked on a journey to create a simple fo
 
 - **User Registration and Authentication**: Users can create accounts and log in securely.
 
-- **Browse Restaurants**: Users can browse a list of available restaurants.
-
 - **View Menu**: Users can view the menu of a selected restaurant, including item details and prices.
 
 - **Add to Cart**: Users can add food items to their shopping cart.
