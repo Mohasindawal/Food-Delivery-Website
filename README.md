@@ -1,6 +1,6 @@
 # Food Delivery Website - First College Mini Project
 
-Welcome to the repository for our first-year college group mini project - a Food Delivery Website! 🍔🍕🚚
+Welcome to the repository for our first-year college group mini project - a Food Delivery Website! 🍔🍕
 
 ## Project Overview
 
